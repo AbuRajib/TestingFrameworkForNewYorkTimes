@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="The NewYork Times pages on Browser">
+    <parameter name="useSauceLab" value="true"/>
+    <parameter name="useName" value="rajib0078"/>
+    <parameter name="key" value="e7d64913-3a8f-4ef4-8f2c-d4a694179e16"/>
+    <parameter name="BrowserName" value="firefox"/>
+    <parameter name="BrowserVersion" value="37"/>
+    <parameter name="os" value="windows"/>
+     <parameter name="url" value="http://www.nytimes.com/"/>
+
+    <test name="The NewYork Times Page">
+        <classes>
+            <!--<class name="Header.MenuSports"/>-->
+            <!--<class name="Header.MenuWorld"/>-->
+            <!--<class name="Header.MenuHealth"/>-->
+            <!--<class name="Header.MenuFood"/>-->
+            <class name="Header.MenuArts"/>
+        </classes>
+    </test>
+</suite>
