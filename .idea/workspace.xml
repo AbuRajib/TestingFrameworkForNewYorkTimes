@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="354f2c51-939c-4c98-bfba-83b29c56d418" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TestingFrameworkForTheNewYorkTimes.iws" />
@@ -203,6 +202,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Framework-ForBootCamp" />
     <property name="FullScreen" value="false" />
     <property name="Groovy.Shell.LastModule" value="TestingFrameworkForTheNewYorkTimes" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
   </component>
   <component name="RunManager" selected="TestNG.C:/Users/HP/workspace/TestingFrameworkForTheNewYorkTimes/TheNewYorkTimes/src/test/resources/TheNewYorkTimes.xml (4)">
     <configuration default="false" name="$PROJECT_DIR$/TheNewYorkTimes/src/test/resources/TheNewYorkTimes.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
@@ -564,7 +564,13 @@
       <option name="project" value="LOCAL" />
       <updated>1434310845653</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="+SauceLab Closed">
+      <created>1434311405686</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1434311405686</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
